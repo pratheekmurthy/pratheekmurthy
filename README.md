@@ -37,4 +37,4 @@
 <br/>
 
 ###
-![Pratheek's github stats](https://github-readme-stats.vercel.app/api?username=Mj-Techs&show_icons=true&theme=radical&bg_color=#ffffff)
+![Pratheek's github stats](https://github-readme-stats.vercel.app/api?username=Pratheek&show_icons=true&theme=radical&bg_color=#ffffff)
