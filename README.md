@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; quick learner and ready to face new challenges..
-- 🔭 &nbsp; Currently working on **Full-Stack Development (Javascript, React, Redux,Node js,Express,mongo,Next JS )** .
+- 🔭 &nbsp; Currently working on **Full-Stack Development (Javascript, React, Redux,Node js,Express,mongo,Next JS,Postgresql )** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
